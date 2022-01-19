@@ -2,7 +2,7 @@
 
 API for chatting that can work on its own or work  with [Invision Community](https://invisioncommunity.com/)  and [Chatbox+](https://invisioncommunity.com/files/file/9342-chatbox/).
 
-You are also welcome to create frontend for this API.
+You are not welcome to create frontend for this API, already been assigned.
 
 eg:
 1. Website
